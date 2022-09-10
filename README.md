@@ -1,4 +1,4 @@
-# StatusVista
+# ![logo](https://statusvista.com/logo_32x32.png) StatusVista
 
 Hello and welcome to the StatusVista GitHub community! 👋
 
@@ -19,11 +19,5 @@ new topic. All topics are welcome whether you have a general question about the
 app, you're looking for a new service to be added or anything else. Our customer
 success team will be notified of new issues and will respond within 24 hours.
 You may also reply or emote to existing issues to show support for it.
-
-When creating a new issue, it's best to use a GitHub label appropriate to the
-topic being discussed. For example: if you'd like to see a service supported, an
-`enhancement` label would be a good choice. While totally optional, labels help
-our success team prioritize issues and make sure you're assisted in a timely
-manner.
 
 Thanks for your support! 🥂
